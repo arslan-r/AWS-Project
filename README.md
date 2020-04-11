@@ -3,11 +3,13 @@ Exposure to architecture and learning about various AWS technologies, culminatin
 
 
 
-  This is meant to provide a simple explanation to technologies used in the cloud. This will NOT go into specifics of how to do it, but merely provide an idea of how every thing works together. The code for the website is provided by Amazon in their Mythical Mysfits guide. Most of the actions talking about will be done through the AWS terminal.
+
+
+This is meant to provide a simple explanation to technologies used in the cloud. This will NOT go into specifics of how to do it, but merely provide an idea of how every thing works together. The code for the website is provided by Amazon in their Mythical Mysfits guide. Most of the actions talking about will be done through the AWS terminal.
 
 
 
-Lets start out by hosting a static website on the cloud. Static content, such as HTML, CSS, and media content will be hosted on Amazon S3, which stands for Simple Storage Service. Objects here are stored directly via HTTP.
+  Lets start out by hosting a static website on the cloud. Static content, such as HTML, CSS, and media content will be hosted on Amazon S3, which stands for Simple Storage Service. Objects here are stored directly via HTTP.
  
 We will create an S3 bucket and enable the bucket to be used for static website hosting. Amazon S3 buckets, which are like file folders, store objects that consist of data and its descriptive metadata.
 
