@@ -56,9 +56,9 @@ So we got a database going. Lets use it to gather information which we can later
 \
 \
 MICROSERVICES
-
-PROS
 [https://raygun.com/blog/what-are-microservices/](https://raygun.com/blog/what-are-microservices/)
+PROS
+
 
 "The biggest pro of microservices architecture is that teams can develop, maintain, and deploy each microservice independently. This kind of single-responsibility leads to other benefits as well. Applications composed of microservices scale better, as you can scale them separately, whenever it’s necessary. Microservices also reduce the time to market and speed up your CI/CD pipeline. This means more agility, too. Besides, isolated services have a better failure tolerance. It’s easier to maintain and debug a lightweight microservice than a complex application, after all."
  
