@@ -1,10 +1,9 @@
 # AWS-Project
 Exposure to architecture and learning about various AWS technologies, culminating in building the Mythical Mysfits website.
-
-
-
-
-
+\
+\
+\
+\
 This is meant to provide a simple explanation to technologies used in the cloud. This will NOT go into specifics of how to do it, but merely provide an idea of how every thing works together. The code for the website is provided by Amazon in their Mythical Mysfits guide. Most of the actions talking about will be done through the AWS terminal.
 
 
