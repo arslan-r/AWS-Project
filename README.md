@@ -1,5 +1,5 @@
 # AWS-Project
-Through using AWS materials on their website, I hosted a static website on Amazon S3, converted it to a dynamic one with AWS Fargate, allowed it to store data with DynamoDB, and enabled user registration + authentication through AWS Cognito and REST API. AWS Lambda was further used with user generated data.
+Using AWS materials on their website, I hosted a static website on Amazon S3, converted it to a dynamic one with AWS Fargate, allowed it to store data with DynamoDB, and enabled user registration + authentication through AWS Cognito and REST API. AWS Lambda was further used with user generated data.
 \
 \
 \
